@@ -1,5 +1,13 @@
 # READ ME
 
+## NPM Commands
+### Start dev environment
+```npm run dev```
+### Build project
+```npm run build```
+### Serve build
+```npm run preview```
+
 ## Docker Commands
 ## Create docker image
 ```docker build . -t "raxian-forge:v0.1"```
@@ -11,11 +19,3 @@
 ```docker compose up```
 ## Stop docker container
 ```docker stop container_name```
-
-## NPM Commands
-### Start dev environment
-```npm run dev```
-### Build project
-```npm run build```
-### Serve build
-```npm run preview```
