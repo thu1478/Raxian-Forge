@@ -9,6 +9,8 @@
 ```docker ps```
 ## Create docker compose container
 ```docker compose up```
+## Stop docker container
+```docker stop container_name```
 
 ## NPM Commands
 ### Start dev environment
